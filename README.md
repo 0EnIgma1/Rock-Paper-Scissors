@@ -1,4 +1,4 @@
-### Rock-Paper-Scissors
+# Rock-Paper-Scissors
 
 A AI based Rock Paper Scissors game where you can play real time with an AI using your webcam
 
