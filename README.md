@@ -9,6 +9,10 @@
   >- OpenCV
   >- CVzone
   >- Mediapipe
+  
+  - You can also download the EXE application by storing the EXE folder in your local system and go to dist -> main.exe to run the application
+  
+  ! make sure that webcam is connected !
 
 # Sample Output
 
