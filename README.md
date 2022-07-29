@@ -14,4 +14,6 @@
 
 <p align = "center">
   <img src = "https://github.com/0EnIgma1/Rock-Paper-Scissors/blob/master/demo.PNG" height = 400>
+  <img src = "https://github.com/0EnIgma1/Rock-Paper-Scissors/blob/master/demo2.PNG" height = 400>
+  <img src = "https://github.com/0EnIgma1/Rock-Paper-Scissors/blob/master/demo3.PNG" height = 400>
   </p>
