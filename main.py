@@ -18,6 +18,7 @@ GameStart = False
 PlayerMove = ""
 scores = [0,0]  #[AI, player]
 won = 0
+
 while True:
     #reading background image
     imgBG = cv2.imread("Resources/bg.png")
@@ -35,7 +36,9 @@ while True:
     
     #detecting hands
     hands, img = detector.findHands(imgScale)
-
+    cv2.putText(imgBG,str("Press \'s\' to play"),(190,690),cv2.FONT_HERSHEY_PLAIN,2,(255,255,255),2)
+    cv2.putText(imgBG,str("Press \'q\' to Exit"),(815,690),cv2.FONT_HERSHEY_PLAIN,2,(255,255,255),2)
+    
     if GameStart:
 
         if StateResult is False:
@@ -86,7 +89,7 @@ while True:
 
                     print("player move :",PlayerMove)
 
-    #adding scaled img to the BG region
+    
     imgBG[211:624,793:1141] = imgScale
 
     if StateResult:
