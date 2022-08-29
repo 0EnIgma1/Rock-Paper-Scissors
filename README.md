@@ -15,6 +15,8 @@
 - You can also download the EXE application by storing the EXE folder in your local system and go to dist -> RPS.exe to run the application
  
 - EXE download link [CLICK ME]("https://www.mediafire.com/file/8fmshta9hai3mmd/Rock-Paper-Scissors.rar/file")
+
+
   ! make sure that webcam is connected !
 
 # Sample Output
