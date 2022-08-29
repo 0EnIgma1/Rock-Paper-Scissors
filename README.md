@@ -12,7 +12,7 @@
   
 - Press 's' to start the game.
 
-- You can also download the EXE application by storing the EXE folder in your local system and go to dist -> main.exe to run the application
+- You can also download the EXE application by storing the EXE folder in your local system and go to dist -> RPS.exe to run the application
   
   ! make sure that webcam is connected !
 
